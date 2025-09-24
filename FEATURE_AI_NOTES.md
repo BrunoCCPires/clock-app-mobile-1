@@ -1,0 +1,1 @@
+Basic clock implementation with time and date display. The clock updates every second using useEffect and setInterval. Styling includes a dark theme with monospace font for better readability.
